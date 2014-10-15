@@ -1,0 +1,19 @@
+1)Installer Eclipse 
+2)lancer Eclipse
+3) File --> import Existing Project Into Workspace
+Browse "Archive File" nosql.zip et importer tous les projets
+
+puis
+
+1)Clic Droit sur le fichier plugin.xml du Projet NoSQL
+2) Export --> Plugin Development-->Deployable plugin and frament.
+
+3) Chosir tous les projets sauf TestNOSQL et exporter dans le repertoire Dropins d'eclipse
+
+4) Restart Eclipse
+
+5) Ouvrir le fichier Vente.sql du Projets TestNoSql
+
+
+
+
