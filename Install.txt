@@ -16,7 +16,7 @@ puis
 
 5) Ouvrir le fichier Vente.sql du Projets TestNoSql
 
-thats all
+thats all folks
 
 
 
