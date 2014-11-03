@@ -1,0 +1,8 @@
+language: java
+script:
+  - java -version
+  - javac -version
+  - python -V
+  - phantomjs -v
+  - echo Hello from DUT INFO Blagnac
+  - ls -alF
